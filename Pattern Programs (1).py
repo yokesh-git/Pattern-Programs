@@ -135,3 +135,5 @@ N = N-1
 for i in range(N):
     print((i+1) * ' ' + (N-i)*'*')
 '''
+
+#Edited Check
